@@ -11,7 +11,7 @@ I'm sonu1489 and I am a Web developer and design front page . I Really enjoy lea
 
 Skills: REACT / JS / HTML / CSS
 
-
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonu1489)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
